@@ -106,6 +106,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"rc3-2021-mullana-background",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0"
+                }],
          "spacing":0,
          "tilecount":3600,
          "tileheight":32,
@@ -1560,6 +1566,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"rc3-2021-mullana-ground",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0"
+                }],
          "spacing":0,
          "tilecount":3600,
          "tileheight":32,
@@ -8318,6 +8330,12 @@
          "imagewidth":960,
          "margin":0,
          "name":"rc3-2021-mullana-utility",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0"
+                }],
          "spacing":0,
          "tilecount":1200,
          "tileheight":32,
@@ -8836,6 +8854,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"tileset_dungeon",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 1.0"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -8849,6 +8873,12 @@
          "imagewidth":1280,
          "margin":0,
          "name":"CL_DEMO_32x32",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Public Domain"
+                }],
          "spacing":0,
          "tilecount":1240,
          "tileheight":32,
@@ -8862,6 +8892,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"large_temple",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"PandaMaru"
+                }],
          "spacing":0,
          "tilecount":540,
          "tileheight":32,
@@ -11036,6 +11072,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"PandaMaru_hafenpub",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"PandaMaru"
+                }],
          "spacing":0,
          "tilecount":328,
          "tileheight":32,
@@ -11049,6 +11091,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"woodlandinn",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"GPL 2.0"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
